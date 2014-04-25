@@ -4,7 +4,7 @@
 # Usage:   python rite.py <query term>
 # Example: python rite.py hackathon
 #
-# Why did I made this? Because I'm a marketer / social manager and want to know which hashtags are most likely to get picked up/amplify my content. 
+# Why did I make this? Because I'm a marketer / social manager and want to know which hashtags are most likely to get picked up/amplify my content. 
 # Licensed under MIT License - 2014 - Neal Shyam [nealshyam.com | @nealrs]
 
 import requests
